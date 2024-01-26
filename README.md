@@ -1,5 +1,5 @@
 <h1 align="center">Hello!👋 This is  Tech Life Fusion</h1>
-<p style="color: black;">TECH</p>
+<p style="font-color: black;">TECH</p>
 <p style="color: green;">LIFE</p>
 <p style="color: red;">FUSION</p>
 

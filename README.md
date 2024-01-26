@@ -3,11 +3,11 @@
 
 <p align="center"><a> <img src="https://github.com/TechLifeFusion/TechLifeFusion/blob/main/Software%20House%20(3).png" width="1000" height="500"/> </a></p>
 
-<h3 align="Center">How to reach me</h3>
+<h3 align="Center">How to reach me....</h3>
 <h2 align="Center">WWW.techlifefusion@gmail.com</h2>
 
 
-<h3 align="Center">Connect with me</h3>
+<h3 align="Center">Connect with me....</h3>
 
 <p align="Center">
 <a href="https://linkedin.com/in/tech life fusion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tech life fusion" height="30" width="40" /></a>

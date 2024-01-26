@@ -1,4 +1,8 @@
 <h1 align="center">Hello!👋 This is  Tech Life Fusion</h1>
+<p style="color: black;">TECH</p>
+<p style="color: green;">LIFE</p>
+<p style="color: red;">FUSION</p>
+
 <h3 align="center">Your Productivity Partner - Tech Life Fusion</h3>
 
 <p align="center"><a> <img src="https://github.com/TechLifeFusion/TechLifeFusion/blob/main/Software%20House%20(3).png" width="1000" height="500"/> </a></p>

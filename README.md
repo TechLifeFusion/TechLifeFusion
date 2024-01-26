@@ -1,7 +1,7 @@
 👋<h1 align="center">Hello! This is Tech Life Fusion</h1>
 <h3 align="center">Your Productivity Partner - Tech Life Fusion</h3>
 
-<p align="center"><a> <img src="https://github.com/TechLifeFusion/TechLifeFusion/blob/main/Software%20House%20(3).png" width="800" height="400"/> </a></p>
+<p align="center"><a> <img src="https://github.com/TechLifeFusion/TechLifeFusion/blob/main/Software%20House%20(3).png" width="800" height="500"/> </a></p>
 
 <h2 align="Center">How to reach me</h2>
 - 📫 How to reach me **techlifefusion@gmail.com**

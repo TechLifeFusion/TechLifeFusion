@@ -4,7 +4,7 @@
 
 <h3 align="center" >Your Productivity Partner - Tech Life Fusion</h3>
 
-<p align="center" style="border-radius:8px;"><a> <img src="https://github.com/TechLifeFusion/TechLifeFusion/blob/main/Software%20House%20(7).png" alt="Description of the image" width="1100" height="500" />
+<p align="center" style="border-radius:8px;"><a> <img src="https://github.com/TechLifeFusion/TechLifeFusion/blob/main/Software%20House%20(7).png" alt="Description of the image" width="1000" height="500" />
 
         
 
